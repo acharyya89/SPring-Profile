@@ -7,3 +7,4 @@ https://www.devglan.com/spring-cloud/refresh-property-config-runtime
 
 http://localhost:8085/rest/message    GET
 http://localhost:8085/actuator/refresh    POST
+http://localhost:8085/actuator/dev    GET
